@@ -6,6 +6,7 @@
 
 * Integrantes: Leonardo Marotta e Mauricio Mucci 🤝
 * A pasta _"docs"_ possui um PDF e um PNG com o grafo de fluxo, o cálculo da complexidade ciclomática, a definição dos caminhos independetes e os casos de testes derivados
+* Link para visualizar o grafo na plataforma: https://lucid.app/lucidspark/2b5deb0e-89fd-47e3-989f-c678c098fc31/edit?viewport_loc=-1134%2C-244%2C2756%2C1370%2C0_0&invitationId=inv_21c113f5-1fa1-48b1-a2b2-95eeb97226a8
 
 ### Objetivos 🎯
 
